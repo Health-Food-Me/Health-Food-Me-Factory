@@ -1,0 +1,393 @@
+{
+  "my": {
+    "folderSync": {
+      "count": 9,
+      "folders": [
+        {
+          "folderId": 69803203,
+          "name": "내 장소",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "1",
+          "iconId": "1",
+          "markerColor": "1",
+          "lastUseTime": 1657698656000,
+          "creationTime": 1657097668000,
+          "shouldOverlay": true,
+          "bookmarkCount": 0,
+          "shareId": "4a9adc53f02f4b5cb881bf13903dbf0c",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": true
+        },
+        {
+          "folderId": 70078574,
+          "name": "샌드위치",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "2",
+          "iconId": "1",
+          "markerColor": "2",
+          "lastUseTime": 1657698750000,
+          "creationTime": 1657698625000,
+          "shouldOverlay": true,
+          "bookmarkCount": 1,
+          "shareId": "b27d688a5d34464dbb97e4549a1c9d05",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70078571,
+          "name": "고깃집",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "1",
+          "iconId": "1",
+          "markerColor": "9",
+          "lastUseTime": 1657698737000,
+          "creationTime": 1657698619000,
+          "shouldOverlay": true,
+          "bookmarkCount": 1,
+          "shareId": "fa31c771d1f84c7eb7078ec17813d0de",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70078567,
+          "name": "보쌈",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "4",
+          "iconId": "1",
+          "markerColor": "4",
+          "lastUseTime": 1657698725000,
+          "creationTime": 1657698614000,
+          "shouldOverlay": true,
+          "bookmarkCount": 1,
+          "shareId": "6a0f5634a145426fa7cd840d1e25a3d7",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70078558,
+          "name": "덮밥",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "1",
+          "iconId": "1",
+          "markerColor": "6",
+          "lastUseTime": 1657698711000,
+          "creationTime": 1657698608000,
+          "shouldOverlay": true,
+          "bookmarkCount": 1,
+          "shareId": "da3628b8033c4eee98e5068ad6f0bbe8",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70078552,
+          "name": "샤브샤브",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "1",
+          "iconId": "1",
+          "markerColor": "1",
+          "lastUseTime": 1657698697000,
+          "creationTime": 1657698604000,
+          "shouldOverlay": true,
+          "bookmarkCount": 1,
+          "shareId": "fd2f307c622344aea6a1f4151319d11d",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70078539,
+          "name": "키토김밥",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "3",
+          "iconId": "1",
+          "markerColor": "3",
+          "lastUseTime": 1657698682000,
+          "creationTime": 1657698586000,
+          "shouldOverlay": true,
+          "bookmarkCount": 1,
+          "shareId": "910e50639a0d4bc58285a8c6877e1f94",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70078524,
+          "name": "샐러드",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "1",
+          "iconId": "1",
+          "markerColor": "7",
+          "lastUseTime": 1657698656000,
+          "creationTime": 1657698574000,
+          "shouldOverlay": true,
+          "bookmarkCount": 1,
+          "shareId": "d95d652d23cd460dae8d09ea4108a9b1",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70078521,
+          "name": "포케",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "1",
+          "iconId": "1",
+          "markerColor": "6",
+          "lastUseTime": 1657698634000,
+          "creationTime": 1657698566000,
+          "shouldOverlay": true,
+          "bookmarkCount": 1,
+          "shareId": "6b78afa859af476e9fe2daf819bb0149",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        }
+      ]
+    },
+    "bookmarkSync": {
+      "count": 8,
+      "bookmarks": [
+        {
+          "bookmark": {
+            "bookmarkId": 673397134,
+            "name": "써브웨이 구의점",
+            "displayName": "써브웨이 구의점",
+            "px": 127.0829911,
+            "py": 37.5378939,
+            "type": "place",
+            "useTime": 1657698750000,
+            "lastUpdateTime": 1657698750000,
+            "creationTime": 1657698750000,
+            "order": 65535,
+            "sid": "1791827112",
+            "address": "서울특별시 광진구 자양동 779-11 103, 104호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70078574,
+              "creationTime": 1657698750000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 673396943,
+            "name": "부자등심",
+            "displayName": "부자등심",
+            "px": 127.10879,
+            "py": 37.5141067,
+            "type": "place",
+            "useTime": 1657698737000,
+            "lastUpdateTime": 1657698737000,
+            "creationTime": 1657698737000,
+            "order": 65535,
+            "sid": "1253291785",
+            "address": "서울특별시 송파구 방이동 63-1",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70078571,
+              "creationTime": 1657698737000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 673396761,
+            "name": "서소문순두부보쌈",
+            "displayName": "서소문순두부보쌈",
+            "px": 127.065104,
+            "py": 37.543677,
+            "type": "place",
+            "useTime": 1657698725000,
+            "lastUpdateTime": 1657698725000,
+            "creationTime": 1657698725000,
+            "order": 65535,
+            "sid": "13154500",
+            "address": "서울특별시 광진구 화양동 42-29",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70078567,
+              "creationTime": 1657698725000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 673396545,
+            "name": "건대연어덮밥",
+            "displayName": "건대연어덮밥",
+            "px": 127.0702067,
+            "py": 37.5437753,
+            "type": "place",
+            "useTime": 1657698711000,
+            "lastUpdateTime": 1657698711000,
+            "creationTime": 1657698711000,
+            "order": 65535,
+            "sid": "1155196349",
+            "address": "서울특별시 광진구 화양동 12-38 1층 건대연어덮밥",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70078558,
+              "creationTime": 1657698711000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 673396329,
+            "name": "채선당 샤브보트 롯데백화점 잠실점",
+            "displayName": "채선당 샤브보트 롯데백화점 잠실점",
+            "px": 127.1008216,
+            "py": 37.5116539,
+            "type": "place",
+            "useTime": 1657698697000,
+            "lastUpdateTime": 1657698697000,
+            "creationTime": 1657698697000,
+            "order": 65535,
+            "sid": "1853575550",
+            "address": "서울특별시 송파구 잠실동 40-1",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70078552,
+              "creationTime": 1657698697000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 673396085,
+            "name": "고소미부엌 논현본점",
+            "displayName": "고소미부엌 논현본점",
+            "px": 127.0230456,
+            "py": 37.5107267,
+            "type": "place",
+            "useTime": 1657698682000,
+            "lastUpdateTime": 1657698682000,
+            "creationTime": 1657698682000,
+            "order": 65535,
+            "sid": "1277536305",
+            "address": "서울특별시 강남구 논현동 141-16 101호 고소미부엌",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70078539,
+              "creationTime": 1657698682000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 673393813,
+            "name": "샐러디 서울시청점",
+            "displayName": "샐러드",
+            "px": 126.9782375,
+            "py": 37.5636921,
+            "type": "place",
+            "useTime": 1657698656000,
+            "lastUpdateTime": 1657698656000,
+            "creationTime": 1657698534000,
+            "order": 65535,
+            "sid": "1015513331",
+            "address": "서울특별시 중구 북창동 14-5 1층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70078524,
+              "creationTime": 1657698656000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 673395311,
+            "name": "Poke all day 포케&샐러드 잠실점",
+            "displayName": "Poke all day 포케&샐러드 잠실점",
+            "px": 127.1111142,
+            "py": 37.5091599,
+            "type": "place",
+            "useTime": 1657698645000,
+            "lastUpdateTime": 1657698645000,
+            "creationTime": 1657698634000,
+            "order": 65535,
+            "sid": "1783800607",
+            "address": "서울특별시 송파구 송파동 48-19",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70078521,
+              "creationTime": 1657698634000
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
