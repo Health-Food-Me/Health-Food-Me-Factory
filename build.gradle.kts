@@ -17,6 +17,8 @@ dependencies {
     testImplementation(kotlin("test"))
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3")
     implementation("com.github.doyaaaaaken:kotlin-csv-jvm:1.4.0")
+    implementation("org.jsoup:jsoup:1.15.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
 }
 
 tasks.test {

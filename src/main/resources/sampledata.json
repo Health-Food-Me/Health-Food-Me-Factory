@@ -23,152 +23,152 @@
           "isDefaultFolder": true
         },
         {
-          "folderId": 70078574,
-          "name": "샌드위치",
-          "memo": null,
-          "externalLink": null,
-          "userId": "hfmlove5252",
-          "colorCode": "2",
-          "iconId": "1",
-          "markerColor": "2",
-          "lastUseTime": 1657698750000,
-          "creationTime": 1657698625000,
-          "shouldOverlay": true,
-          "bookmarkCount": 1,
-          "shareId": "b27d688a5d34464dbb97e4549a1c9d05",
-          "followCount": 0,
-          "viewCount": 0,
-          "publicationStatus": "N",
-          "isDefaultFolder": false
-        },
-        {
-          "folderId": 70078571,
-          "name": "고깃집",
-          "memo": null,
-          "externalLink": null,
-          "userId": "hfmlove5252",
-          "colorCode": "1",
-          "iconId": "1",
-          "markerColor": "9",
-          "lastUseTime": 1657698737000,
-          "creationTime": 1657698619000,
-          "shouldOverlay": true,
-          "bookmarkCount": 1,
-          "shareId": "fa31c771d1f84c7eb7078ec17813d0de",
-          "followCount": 0,
-          "viewCount": 0,
-          "publicationStatus": "N",
-          "isDefaultFolder": false
-        },
-        {
-          "folderId": 70078567,
-          "name": "보쌈",
-          "memo": null,
-          "externalLink": null,
-          "userId": "hfmlove5252",
-          "colorCode": "4",
-          "iconId": "1",
-          "markerColor": "4",
-          "lastUseTime": 1657698725000,
-          "creationTime": 1657698614000,
-          "shouldOverlay": true,
-          "bookmarkCount": 1,
-          "shareId": "6a0f5634a145426fa7cd840d1e25a3d7",
-          "followCount": 0,
-          "viewCount": 0,
-          "publicationStatus": "N",
-          "isDefaultFolder": false
-        },
-        {
-          "folderId": 70078558,
+          "folderId": 70292463,
           "name": "덮밥",
-          "memo": null,
-          "externalLink": null,
-          "userId": "hfmlove5252",
-          "colorCode": "1",
-          "iconId": "1",
-          "markerColor": "6",
-          "lastUseTime": 1657698711000,
-          "creationTime": 1657698608000,
-          "shouldOverlay": true,
-          "bookmarkCount": 1,
-          "shareId": "da3628b8033c4eee98e5068ad6f0bbe8",
-          "followCount": 0,
-          "viewCount": 0,
-          "publicationStatus": "N",
-          "isDefaultFolder": false
-        },
-        {
-          "folderId": 70078552,
-          "name": "샤브샤브",
-          "memo": null,
-          "externalLink": null,
-          "userId": "hfmlove5252",
-          "colorCode": "1",
-          "iconId": "1",
-          "markerColor": "1",
-          "lastUseTime": 1657698697000,
-          "creationTime": 1657698604000,
-          "shouldOverlay": true,
-          "bookmarkCount": 1,
-          "shareId": "fd2f307c622344aea6a1f4151319d11d",
-          "followCount": 0,
-          "viewCount": 0,
-          "publicationStatus": "N",
-          "isDefaultFolder": false
-        },
-        {
-          "folderId": 70078539,
-          "name": "키토김밥",
           "memo": null,
           "externalLink": null,
           "userId": "hfmlove5252",
           "colorCode": "3",
           "iconId": "1",
           "markerColor": "3",
-          "lastUseTime": 1657698682000,
-          "creationTime": 1657698586000,
+          "lastUseTime": 1658156344000,
+          "creationTime": 1658156279000,
           "shouldOverlay": true,
-          "bookmarkCount": 1,
-          "shareId": "910e50639a0d4bc58285a8c6877e1f94",
+          "bookmarkCount": 5,
+          "shareId": "acb2e0722b244b1785235fafa7bab605",
           "followCount": 0,
           "viewCount": 0,
           "publicationStatus": "N",
           "isDefaultFolder": false
         },
         {
-          "folderId": 70078524,
-          "name": "샐러드",
+          "folderId": 70290313,
+          "name": "고기",
           "memo": null,
           "externalLink": null,
           "userId": "hfmlove5252",
           "colorCode": "1",
           "iconId": "1",
-          "markerColor": "7",
-          "lastUseTime": 1657698656000,
-          "creationTime": 1657698574000,
+          "markerColor": "10",
+          "lastUseTime": 1658156155000,
+          "creationTime": 1658152961000,
           "shouldOverlay": true,
-          "bookmarkCount": 1,
-          "shareId": "d95d652d23cd460dae8d09ea4108a9b1",
+          "bookmarkCount": 7,
+          "shareId": "f464fe6da4a6434c8c533ff3586e9e5e",
           "followCount": 0,
           "viewCount": 0,
           "publicationStatus": "N",
           "isDefaultFolder": false
         },
         {
-          "folderId": 70078521,
-          "name": "포케",
+          "folderId": 70290173,
+          "name": "보쌈",
           "memo": null,
           "externalLink": null,
           "userId": "hfmlove5252",
           "colorCode": "1",
           "iconId": "1",
           "markerColor": "6",
-          "lastUseTime": 1657698634000,
-          "creationTime": 1657698566000,
+          "lastUseTime": 1658152929000,
+          "creationTime": 1658152736000,
           "shouldOverlay": true,
-          "bookmarkCount": 1,
-          "shareId": "6b78afa859af476e9fe2daf819bb0149",
+          "bookmarkCount": 5,
+          "shareId": "61099ace9ad84b58b41b2a743ec873d1",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70290027,
+          "name": "샤브샤브",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "1",
+          "iconId": "1",
+          "markerColor": "9",
+          "lastUseTime": 1658152708000,
+          "creationTime": 1658152526000,
+          "shouldOverlay": true,
+          "bookmarkCount": 5,
+          "shareId": "0198934792b6417886057cf4470dfe00",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70289634,
+          "name": "샌드위치",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "1",
+          "iconId": "1",
+          "markerColor": "12",
+          "lastUseTime": 1658152708000,
+          "creationTime": 1658151888000,
+          "shouldOverlay": true,
+          "bookmarkCount": 39,
+          "shareId": "e2c6bef813de480b9ce3594bedb3b187",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70288954,
+          "name": "샐러드",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "1",
+          "iconId": "1",
+          "markerColor": "8",
+          "lastUseTime": 1658152236000,
+          "creationTime": 1658150882000,
+          "shouldOverlay": true,
+          "bookmarkCount": 11,
+          "shareId": "e471af467254456285ff457a50cb0725",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70289548,
+          "name": "키토김밥",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "2",
+          "iconId": "1",
+          "markerColor": "2",
+          "lastUseTime": 1658151828000,
+          "creationTime": 1658151760000,
+          "shouldOverlay": true,
+          "bookmarkCount": 5,
+          "shareId": "7640eb70cdee4010be7c87d130fa3c6d",
+          "followCount": 0,
+          "viewCount": 0,
+          "publicationStatus": "N",
+          "isDefaultFolder": false
+        },
+        {
+          "folderId": 70289418,
+          "name": "포케",
+          "memo": null,
+          "externalLink": null,
+          "userId": "hfmlove5252",
+          "colorCode": "1",
+          "iconId": "1",
+          "markerColor": "7",
+          "lastUseTime": 1658151728000,
+          "creationTime": 1658151546000,
+          "shouldOverlay": true,
+          "bookmarkCount": 10,
+          "shareId": "e863b80fae0b4e5f9e40ed9e8dca909d",
           "followCount": 0,
           "viewCount": 0,
           "publicationStatus": "N",
@@ -177,22 +177,22 @@
       ]
     },
     "bookmarkSync": {
-      "count": 8,
+      "count": 87,
       "bookmarks": [
         {
           "bookmark": {
-            "bookmarkId": 673397134,
-            "name": "써브웨이 구의점",
-            "displayName": "써브웨이 구의점",
-            "px": 127.0829911,
-            "py": 37.5378939,
+            "bookmarkId": 678815195,
+            "name": "아소산 겐안",
+            "displayName": "아소산 겐안",
+            "px": 127.0235331,
+            "py": 37.5032162,
             "type": "place",
-            "useTime": 1657698750000,
-            "lastUpdateTime": 1657698750000,
-            "creationTime": 1657698750000,
+            "useTime": 1658156344000,
+            "lastUpdateTime": 1658156344000,
+            "creationTime": 1658156344000,
             "order": 65535,
-            "sid": "1791827112",
-            "address": "서울특별시 광진구 자양동 779-11 103, 104호",
+            "sid": "1393074049",
+            "address": "서울특별시 서초구 서초동 1303-10 2층",
             "memo": null,
             "url": null,
             "folderMappings": null,
@@ -200,25 +200,25 @@
           },
           "folderMappings": [
             {
-              "folderId": 70078574,
-              "creationTime": 1657698750000
+              "folderId": 70292463,
+              "creationTime": 1658156344000
             }
           ]
         },
         {
           "bookmark": {
-            "bookmarkId": 673396943,
-            "name": "부자등심",
-            "displayName": "부자등심",
-            "px": 127.10879,
-            "py": 37.5141067,
+            "bookmarkId": 678814984,
+            "name": "호미호식",
+            "displayName": "호미호식",
+            "px": 127.0268864,
+            "py": 37.5025319,
             "type": "place",
-            "useTime": 1657698737000,
-            "lastUpdateTime": 1657698737000,
-            "creationTime": 1657698737000,
+            "useTime": 1658156331000,
+            "lastUpdateTime": 1658156331000,
+            "creationTime": 1658156331000,
             "order": 65535,
-            "sid": "1253291785",
-            "address": "서울특별시 송파구 방이동 63-1",
+            "sid": "1486194226",
+            "address": "서울특별시 강남구 역삼동 813-10 운현빌딩 1층 2호, 호미호식",
             "memo": null,
             "url": null,
             "folderMappings": null,
@@ -226,25 +226,25 @@
           },
           "folderMappings": [
             {
-              "folderId": 70078571,
-              "creationTime": 1657698737000
+              "folderId": 70292463,
+              "creationTime": 1658156331000
             }
           ]
         },
         {
           "bookmark": {
-            "bookmarkId": 673396761,
-            "name": "서소문순두부보쌈",
-            "displayName": "서소문순두부보쌈",
-            "px": 127.065104,
-            "py": 37.543677,
+            "bookmarkId": 678814771,
+            "name": "감탄성신",
+            "displayName": "감탄성신",
+            "px": 127.0267044,
+            "py": 37.5029523,
             "type": "place",
-            "useTime": 1657698725000,
-            "lastUpdateTime": 1657698725000,
-            "creationTime": 1657698725000,
+            "useTime": 1658156320000,
+            "lastUpdateTime": 1658156320000,
+            "creationTime": 1658156320000,
             "order": 65535,
-            "sid": "13154500",
-            "address": "서울특별시 광진구 화양동 42-29",
+            "sid": "1805562801",
+            "address": "서울특별시 강남구 역삼동 813-2 지상1층",
             "memo": null,
             "url": null,
             "folderMappings": null,
@@ -252,25 +252,25 @@
           },
           "folderMappings": [
             {
-              "folderId": 70078567,
-              "creationTime": 1657698725000
+              "folderId": 70292463,
+              "creationTime": 1658156320000
             }
           ]
         },
         {
           "bookmark": {
-            "bookmarkId": 673396545,
-            "name": "건대연어덮밥",
-            "displayName": "건대연어덮밥",
-            "px": 127.0702067,
-            "py": 37.5437753,
+            "bookmarkId": 678814420,
+            "name": "미도인 강남",
+            "displayName": "미도인 강남",
+            "px": 127.0271669,
+            "py": 37.5021188,
             "type": "place",
-            "useTime": 1657698711000,
-            "lastUpdateTime": 1657698711000,
-            "creationTime": 1657698711000,
+            "useTime": 1658156299000,
+            "lastUpdateTime": 1658156299000,
+            "creationTime": 1658156299000,
             "order": 65535,
-            "sid": "1155196349",
-            "address": "서울특별시 광진구 화양동 12-38 1층 건대연어덮밥",
+            "sid": "1427134948",
+            "address": "서울특별시 강남구 역삼동 619-3 지상 2층",
             "memo": null,
             "url": null,
             "folderMappings": null,
@@ -278,25 +278,25 @@
           },
           "folderMappings": [
             {
-              "folderId": 70078558,
-              "creationTime": 1657698711000
+              "folderId": 70292463,
+              "creationTime": 1658156299000
             }
           ]
         },
         {
           "bookmark": {
-            "bookmarkId": 673396329,
-            "name": "채선당 샤브보트 롯데백화점 잠실점",
-            "displayName": "채선당 샤브보트 롯데백화점 잠실점",
-            "px": 127.1008216,
-            "py": 37.5116539,
+            "bookmarkId": 678814120,
+            "name": "다이칸야마키친",
+            "displayName": "다이칸야마키친",
+            "px": 127.021779,
+            "py": 37.5217469,
             "type": "place",
-            "useTime": 1657698697000,
-            "lastUpdateTime": 1657698697000,
-            "creationTime": 1657698697000,
+            "useTime": 1658156282000,
+            "lastUpdateTime": 1658156282000,
+            "creationTime": 1658156282000,
             "order": 65535,
-            "sid": "1853575550",
-            "address": "서울특별시 송파구 잠실동 40-1",
+            "sid": "19792442",
+            "address": "서울특별시 강남구 신사동 524-19 1층",
             "memo": null,
             "url": null,
             "folderMappings": null,
@@ -304,22 +304,1556 @@
           },
           "folderMappings": [
             {
-              "folderId": 70078552,
-              "creationTime": 1657698697000
+              "folderId": 70292463,
+              "creationTime": 1658156282000
             }
           ]
         },
         {
           "bookmark": {
-            "bookmarkId": 673396085,
+            "bookmarkId": 678811976,
+            "name": "육랩",
+            "displayName": "육랩",
+            "px": 127.0279973,
+            "py": 37.5002366,
+            "type": "place",
+            "useTime": 1658156155000,
+            "lastUpdateTime": 1658156155000,
+            "creationTime": 1658156155000,
+            "order": 65535,
+            "sid": "1945367836",
+            "address": "서울특별시 강남구 역삼동 817-15 2층 육랩",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290313,
+              "creationTime": 1658156155000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678811724,
+            "name": "신부자식당",
+            "displayName": "신부자식당",
+            "px": 127.0275084,
+            "py": 37.4997945,
+            "type": "place",
+            "useTime": 1658156139000,
+            "lastUpdateTime": 1658156139000,
+            "creationTime": 1658156139000,
+            "order": 65535,
+            "sid": "37388550",
+            "address": "서울특별시 강남구 역삼동 816-4 재영빌딩 2층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290313,
+              "creationTime": 1658156139000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678811481,
+            "name": "동두천솥뚜껑삼겹살 강남역점",
+            "displayName": "동두천솥뚜껑삼겹살 강남역점",
+            "px": 127.0278591,
+            "py": 37.4996842,
+            "type": "place",
+            "useTime": 1658156126000,
+            "lastUpdateTime": 1658156126000,
+            "creationTime": 1658156126000,
+            "order": 65535,
+            "sid": "866289572",
+            "address": "서울특별시 강남구 역삼동 818 2층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290313,
+              "creationTime": 1658156126000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678810815,
+            "name": "일편등심 강남점",
+            "displayName": "일편등심 강남점",
+            "px": 127.027815,
+            "py": 37.49974,
+            "type": "place",
+            "useTime": 1658156087000,
+            "lastUpdateTime": 1658156087000,
+            "creationTime": 1658156087000,
+            "order": 65535,
+            "sid": "1703147169",
+            "address": "서울특별시 강남구 역삼동 818 지하 1층 일편등심 강남점",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290313,
+              "creationTime": 1658156087000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678754926,
+            "name": "땅코참숯구이 직영1호점",
+            "displayName": "땅코참숯구이 직영1호점",
+            "px": 127.0367439,
+            "py": 37.5168535,
+            "type": "place",
+            "useTime": 1658152983000,
+            "lastUpdateTime": 1658152983000,
+            "creationTime": 1658152983000,
+            "order": 65535,
+            "sid": "1216618207",
+            "address": "서울특별시 강남구 논현동 114-25",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290313,
+              "creationTime": 1658152983000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678754770,
+            "name": "땅코참숯구이 선릉점",
+            "displayName": "땅코참숯구이 선릉점",
+            "px": 127.0523295,
+            "py": 37.5029807,
+            "type": "place",
+            "useTime": 1658152974000,
+            "lastUpdateTime": 1658152974000,
+            "creationTime": 1658152974000,
+            "order": 65535,
+            "sid": "1134719233",
+            "address": "서울특별시 강남구 대치동 900-24",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290313,
+              "creationTime": 1658152974000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678754534,
+            "name": "땅코참숯구이 역삼점",
+            "displayName": "땅코참숯구이 역삼점",
+            "px": 127.0343299,
+            "py": 37.4925248,
+            "type": "place",
+            "useTime": 1658152963000,
+            "lastUpdateTime": 1658152963000,
+            "creationTime": 1658152963000,
+            "order": 65535,
+            "sid": "1313376910",
+            "address": "서울특별시 강남구 역삼동 835",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290313,
+              "creationTime": 1658152963000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678753906,
+            "name": "서진식당",
+            "displayName": "서진식당",
+            "px": 127.0310993,
+            "py": 37.4975548,
+            "type": "place",
+            "useTime": 1658152929000,
+            "lastUpdateTime": 1658152929000,
+            "creationTime": 1658152929000,
+            "order": 65535,
+            "sid": "34807654",
+            "address": "서울특별시 강남구 역삼동 824-25",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290173,
+              "creationTime": 1658152929000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678753714,
+            "name": "걸신맛집",
+            "displayName": "걸신맛집",
+            "px": 127.0312787,
+            "py": 37.4967224,
+            "type": "place",
+            "useTime": 1658152918000,
+            "lastUpdateTime": 1658152918000,
+            "creationTime": 1658152918000,
+            "order": 65535,
+            "sid": "32333423",
+            "address": "서울특별시 강남구 역삼동 827-53 1층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290173,
+              "creationTime": 1658152918000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678751698,
+            "name": "무월식탁 파르나스점",
+            "displayName": "무월식탁 파르나스점",
+            "px": 127.0606802,
+            "py": 37.5090905,
+            "type": "place",
+            "useTime": 1658152828000,
+            "lastUpdateTime": 1658152828000,
+            "creationTime": 1658152810000,
+            "order": 65535,
+            "sid": "1893905299",
+            "address": "서울특별시 강남구 삼성동 159-8 파르나스몰 지하1층 F-16",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290173,
+              "creationTime": 1658152810000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678751287,
+            "name": "무월식탁 파미에스테이션점",
+            "displayName": "무월식탁 파미에스테이션점",
+            "px": 127.0052395,
+            "py": 37.5033487,
+            "type": "place",
+            "useTime": 1658152786000,
+            "lastUpdateTime": 1658152786000,
+            "creationTime": 1658152786000,
+            "order": 65535,
+            "sid": "1167488982",
+            "address": "서울특별시 서초구 반포동 118-3",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290173,
+              "creationTime": 1658152786000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678750358,
+            "name": "무월식탁",
+            "displayName": "무월식탁",
+            "px": 127.0273296,
+            "py": 37.5025759,
+            "type": "place",
+            "useTime": 1658152737000,
+            "lastUpdateTime": 1658152737000,
+            "creationTime": 1658152737000,
+            "order": 65535,
+            "sid": "38261837",
+            "address": "서울특별시 강남구 역삼동 812-15",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290173,
+              "creationTime": 1658152737000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678749551,
+            "name": "명동칼국수샤브샤브 역삼점",
+            "displayName": "명동칼국수샤브샤브 역삼점",
+            "px": 127.0339545,
+            "py": 37.5008574,
+            "type": "place",
+            "useTime": 1658152708000,
+            "lastUpdateTime": 1658152708000,
+            "creationTime": 1658152695000,
+            "order": 65535,
+            "sid": "19452180",
+            "address": "서울특별시 강남구 역삼동 645-20",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290027,
+              "creationTime": 1658152708000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678749225,
+            "name": "강남교자 본점",
+            "displayName": "강남교자 본점",
+            "px": 127.0243176,
+            "py": 37.5014857,
+            "type": "place",
+            "useTime": 1658152678000,
+            "lastUpdateTime": 1658152678000,
+            "creationTime": 1658152678000,
+            "order": 65535,
+            "sid": "13073102",
+            "address": "서울특별시 서초구 서초동 1308-1 삼미빌딩",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290027,
+              "creationTime": 1658152678000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678748724,
+            "name": "선향정샤브샤브 강남2호점",
+            "displayName": "선향정샤브샤브 강남2호점",
+            "px": 127.0301613,
+            "py": 37.4945041,
+            "type": "place",
+            "useTime": 1658152649000,
+            "lastUpdateTime": 1658152649000,
+            "creationTime": 1658152649000,
+            "order": 65535,
+            "sid": "1303630904",
+            "address": "서울특별시 강남구 역삼동 831-5",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290027,
+              "creationTime": 1658152649000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678748632,
+            "name": "선향정샤브샤브 서초점",
+            "displayName": "선향정샤브샤브 서초점",
+            "px": 127.0256036,
+            "py": 37.4956669,
+            "type": "place",
+            "useTime": 1658152644000,
+            "lastUpdateTime": 1658152644000,
+            "creationTime": 1658152644000,
+            "order": 65535,
+            "sid": "35084775",
+            "address": "서울특별시 서초구 서초동 1321-9 풍림아이원매직 2층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290027,
+              "creationTime": 1658152644000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678746512,
+            "name": "만뽀스키야키 강남 더인피닛스퀘어점",
+            "displayName": "만뽀스키야키 강남 더인피닛스퀘어점",
+            "px": 127.0235998,
+            "py": 37.5035076,
+            "type": "place",
+            "useTime": 1658152530000,
+            "lastUpdateTime": 1658152530000,
+            "creationTime": 1658152530000,
+            "order": 65535,
+            "sid": "1168385208",
+            "address": "서울특별시 서초구 서초동 1303-8",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70290027,
+              "creationTime": 1658152530000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678744600,
+            "name": "위트앤미트 강남점",
+            "displayName": "위트앤미트 강남점",
+            "px": 127.0274524,
+            "py": 37.5037803,
+            "type": "place",
+            "useTime": 1658152428000,
+            "lastUpdateTime": 1658152428000,
+            "creationTime": 1658152428000,
+            "order": 65535,
+            "sid": "1771536211",
+            "address": "서울특별시 강남구 역삼동 616-4",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152428000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678743463,
+            "name": "퀴즈노스 서울성모병원점",
+            "displayName": "퀴즈노스 서울성모병원점",
+            "px": 127.0051663,
+            "py": 37.5014827,
+            "type": "place",
+            "useTime": 1658152366000,
+            "lastUpdateTime": 1658152366000,
+            "creationTime": 1658152366000,
+            "order": 65535,
+            "sid": "1226942623",
+            "address": "서울특별시 서초구 반포동 505 지하1층 (, 서울성모병원 본관)",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152366000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678743385,
+            "name": "퀴즈노스 남부터미널점",
+            "displayName": "퀴즈노스 남부터미널점",
+            "px": 127.0145359,
+            "py": 37.4843891,
+            "type": "place",
+            "useTime": 1658152361000,
+            "lastUpdateTime": 1658152361000,
+            "creationTime": 1658152361000,
+            "order": 65535,
+            "sid": "1086470997",
+            "address": "서울특별시 서초구 서초동 1457-2",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152361000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678743020,
+            "name": "퀴즈노스 압구정점",
+            "displayName": "퀴즈노스 압구정점",
+            "px": 127.024475,
+            "py": 37.5249333,
+            "type": "place",
+            "useTime": 1658152341000,
+            "lastUpdateTime": 1658152341000,
+            "creationTime": 1658152341000,
+            "order": 65535,
+            "sid": "13150293",
+            "address": "서울특별시 강남구 신사동 574 한주빌딩 1F",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152341000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678742839,
+            "name": "퀴즈노스 우성아파트사거리점",
+            "displayName": "퀴즈노스 우성아파트사거리점",
+            "px": 127.02856,
+            "py": 37.4928206,
+            "type": "place",
+            "useTime": 1658152332000,
+            "lastUpdateTime": 1658152332000,
+            "creationTime": 1658152332000,
+            "order": 65535,
+            "sid": "1592085642",
+            "address": "서울특별시 서초구 서초동 1330-9",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152332000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678742705,
+            "name": "퀴즈노스 대치사거리점",
+            "displayName": "퀴즈노스 대치사거리점",
+            "px": 127.0601549,
+            "py": 37.5037396,
+            "type": "place",
+            "useTime": 1658152324000,
+            "lastUpdateTime": 1658152324000,
+            "creationTime": 1658152324000,
+            "order": 65535,
+            "sid": "38426477",
+            "address": "서울특별시 강남구 대치동 953-21 케이제이빌딩 1층 1호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152324000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678742617,
+            "name": "퀴즈노스 역삼점",
+            "displayName": "퀴즈노스 역삼점",
+            "px": 127.0415401,
+            "py": 37.5018361,
+            "type": "place",
+            "useTime": 1658152319000,
+            "lastUpdateTime": 1658152319000,
+            "creationTime": 1658152319000,
+            "order": 65535,
+            "sid": "1199213810",
+            "address": "서울특별시 강남구 역삼동 720",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152319000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678742442,
+            "name": "퀴즈노스 강남우성아파트사거리점",
+            "displayName": "퀴즈노스 강남우성아파트사거리점",
+            "px": 127.0285593,
+            "py": 37.4927632,
+            "type": "place",
+            "useTime": 1658152308000,
+            "lastUpdateTime": 1658152308000,
+            "creationTime": 1658152308000,
+            "order": 65535,
+            "sid": "1671176236",
+            "address": "서울특별시 서초구 서초동 1330-9",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152308000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678742031,
+            "name": "퀴즈노스 코리아본사",
+            "displayName": "퀴즈노스 코리아본사",
+            "px": 127.0506999,
+            "py": 37.5045344,
+            "type": "place",
+            "useTime": 1658152288000,
+            "lastUpdateTime": 1658152288000,
+            "creationTime": 1658152288000,
+            "order": 65535,
+            "sid": "12782486",
+            "address": "서울특별시 강남구 대치동 889-13 금강타워 15층 1503호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152288000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678741910,
+            "name": "퀴즈노스 신사위워크점",
+            "displayName": "퀴즈노스 신사위워크점",
+            "px": 127.0205751,
+            "py": 37.5141473,
+            "type": "place",
+            "useTime": 1658152281000,
+            "lastUpdateTime": 1658152281000,
+            "creationTime": 1658152281000,
+            "order": 65535,
+            "sid": "1905922659",
+            "address": "서울특별시 강남구 논현동 18-3",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152281000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678741770,
+            "name": "퀴즈노스 역삼점",
+            "displayName": "퀴즈노스 역삼점",
+            "px": 127.0414704,
+            "py": 37.5018779,
+            "type": "place",
+            "useTime": 1658152273000,
+            "lastUpdateTime": 1658152273000,
+            "creationTime": 1658152273000,
+            "order": 65535,
+            "sid": "35976721",
+            "address": "서울특별시 강남구 역삼동 720",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152273000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678741419,
+            "name": "리나스 강남",
+            "displayName": "리나스 강남",
+            "px": 127.031055,
+            "py": 37.4915615,
+            "type": "place",
+            "useTime": 1658152253000,
+            "lastUpdateTime": 1658152253000,
+            "creationTime": 1658152253000,
+            "order": 65535,
+            "sid": "1667879238",
+            "address": "서울특별시 강남구 역삼동 837",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152253000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678741104,
+            "name": "에그드랍 파르나스몰점",
+            "displayName": "에그드랍 파르나스몰점",
+            "px": 127.0604568,
+            "py": 37.508704,
+            "type": "place",
+            "useTime": 1658152236000,
+            "lastUpdateTime": 1658152236000,
+            "creationTime": 1658152236000,
+            "order": 65535,
+            "sid": "1349752410",
+            "address": "서울특별시 강남구 삼성동 159-8",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658152236000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678740942,
+            "name": "에그드랍 한티역점",
+            "displayName": "에그드랍 한티역점",
+            "px": 127.0547168,
+            "py": 37.4972304,
+            "type": "place",
+            "useTime": 1658152227000,
+            "lastUpdateTime": 1658152227000,
+            "creationTime": 1658152227000,
+            "order": 65535,
+            "sid": "1699532769",
+            "address": "서울특별시 강남구 대치동 938",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152227000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678740840,
+            "name": "에그드랍 양재역점",
+            "displayName": "에그드랍 양재역점",
+            "px": 127.0352231,
+            "py": 37.4849481,
+            "type": "place",
+            "useTime": 1658152222000,
+            "lastUpdateTime": 1658152222000,
+            "creationTime": 1658152222000,
+            "order": 65535,
+            "sid": "1567180996",
+            "address": "서울특별시 강남구 도곡동 957-14",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152222000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678740743,
+            "name": "에그드랍 압구정점",
+            "displayName": "에그드랍 압구정점",
+            "px": 127.0276315,
+            "py": 37.5261847,
+            "type": "place",
+            "useTime": 1658152217000,
+            "lastUpdateTime": 1658152217000,
+            "creationTime": 1658152217000,
+            "order": 65535,
+            "sid": "1399101759",
+            "address": "서울특별시 강남구 신사동 579-3",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152217000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678740588,
+            "name": "에그드랍 잠원역점",
+            "displayName": "에그드랍 잠원역점",
+            "px": 127.0107999,
+            "py": 37.5128117,
+            "type": "place",
+            "useTime": 1658152208000,
+            "lastUpdateTime": 1658152208000,
+            "creationTime": 1658152208000,
+            "order": 65535,
+            "sid": "1945414099",
+            "address": "서울특별시 서초구 잠원동 61-9",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152208000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678740483,
+            "name": "에그드랍 서초역점",
+            "displayName": "에그드랍 서초역점",
+            "px": 127.0098827,
+            "py": 37.4922617,
+            "type": "place",
+            "useTime": 1658152203000,
+            "lastUpdateTime": 1658152203000,
+            "creationTime": 1658152203000,
+            "order": 65535,
+            "sid": "1167981138",
+            "address": "서울특별시 서초구 서초동 1554-1",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152203000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678740380,
+            "name": "에그드랍 선릉역점",
+            "displayName": "에그드랍 선릉역점",
+            "px": 127.0465406,
+            "py": 37.5025505,
+            "type": "place",
+            "useTime": 1658152198000,
+            "lastUpdateTime": 1658152198000,
+            "creationTime": 1658152198000,
+            "order": 65535,
+            "sid": "1851402038",
+            "address": "서울특별시 강남구 역삼동 709-5",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152198000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678740309,
+            "name": "에그드랍 피나클 강남구청점",
+            "displayName": "에그드랍 피나클 강남구청점",
+            "px": 127.0406117,
+            "py": 37.5174413,
+            "type": "place",
+            "useTime": 1658152193000,
+            "lastUpdateTime": 1658152193000,
+            "creationTime": 1658152193000,
+            "order": 65535,
+            "sid": "1639192784",
+            "address": "서울특별시 강남구 논현동 119",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152193000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678740140,
+            "name": "에그드랍 역삼GS직영점",
+            "displayName": "에그드랍 역삼GS직영점",
+            "px": 127.0378829,
+            "py": 37.5025613,
+            "type": "place",
+            "useTime": 1658152184000,
+            "lastUpdateTime": 1658152184000,
+            "creationTime": 1658152184000,
+            "order": 65535,
+            "sid": "1324085584",
+            "address": "서울특별시 강남구 역삼동 678 1층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152184000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678740027,
+            "name": "에그드랍 역삼역점",
+            "displayName": "에그드랍 역삼역점",
+            "px": 127.035238,
+            "py": 37.5016336,
+            "type": "place",
+            "useTime": 1658152179000,
+            "lastUpdateTime": 1658152179000,
+            "creationTime": 1658152179000,
+            "order": 65535,
+            "sid": "1289317361",
+            "address": "서울특별시 강남구 역삼동 644-9",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152179000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678739835,
+            "name": "에그드랍 신논현역점",
+            "displayName": "에그드랍 신논현역점",
+            "px": 127.0240055,
+            "py": 37.5026127,
+            "type": "place",
+            "useTime": 1658152169000,
+            "lastUpdateTime": 1658152169000,
+            "creationTime": 1658152169000,
+            "order": 65535,
+            "sid": "1841281865",
+            "address": "서울특별시 서초구 서초동 1303-16",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152169000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678739746,
+            "name": "에그드랍 강남점",
+            "displayName": "에그드랍 강남점",
+            "px": 127.0256119,
+            "py": 37.4955887,
+            "type": "place",
+            "useTime": 1658152165000,
+            "lastUpdateTime": 1658152165000,
+            "creationTime": 1658152165000,
+            "order": 65535,
+            "sid": "1023881187",
+            "address": "서울특별시 서초구 서초동 1321-9",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152165000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678739525,
+            "name": "에그드랍 강남우성점",
+            "displayName": "에그드랍 강남우성점",
+            "px": 127.0302116,
+            "py": 37.4917006,
+            "type": "place",
+            "useTime": 1658152152000,
+            "lastUpdateTime": 1658152152000,
+            "creationTime": 1658152152000,
+            "order": 65535,
+            "sid": "1921951524",
+            "address": "서울특별시 서초구 서초동 1337-22",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152152000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678739440,
+            "name": "에그드랍 강남역점",
+            "displayName": "에그드랍 강남역점",
+            "px": 127.0311349,
+            "py": 37.495207,
+            "type": "place",
+            "useTime": 1658152147000,
+            "lastUpdateTime": 1658152147000,
+            "creationTime": 1658152147000,
+            "order": 65535,
+            "sid": "1944661145",
+            "address": "서울특별시 강남구 역삼동 830",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152147000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678739003,
+            "name": "써브웨이 삼성점",
+            "displayName": "써브웨이 삼성점",
+            "px": 127.0560481,
+            "py": 37.5086514,
+            "type": "place",
+            "useTime": 1658152126000,
+            "lastUpdateTime": 1658152126000,
+            "creationTime": 1658152126000,
+            "order": 65535,
+            "sid": "38572982",
+            "address": "서울특별시 강남구 삼성동 156-5",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152126000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678738670,
+            "name": "써브웨이 선릉점",
+            "displayName": "써브웨이 선릉점",
+            "px": 127.0485312,
+            "py": 37.5046958,
+            "type": "place",
+            "useTime": 1658152108000,
+            "lastUpdateTime": 1658152108000,
+            "creationTime": 1658152108000,
+            "order": 65535,
+            "sid": "874280081",
+            "address": "서울특별시 강남구 역삼동 705-27",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152108000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678738278,
+            "name": "써브웨이 선정릉역점",
+            "displayName": "써브웨이 선정릉역점",
+            "px": 127.0429377,
+            "py": 37.509783,
+            "type": "place",
+            "useTime": 1658152086000,
+            "lastUpdateTime": 1658152086000,
+            "creationTime": 1658152086000,
+            "order": 65535,
+            "sid": "1098430527",
+            "address": "서울특별시 강남구 역삼동 682-7 써브웨이 선정릉역점",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152086000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678738133,
+            "name": "써브웨이 신사역점",
+            "displayName": "써브웨이 신사역점",
+            "px": 127.0222389,
+            "py": 37.5169489,
+            "type": "place",
+            "useTime": 1658152078000,
+            "lastUpdateTime": 1658152078000,
+            "creationTime": 1658152078000,
+            "order": 65535,
+            "sid": "20690935",
+            "address": "서울특별시 강남구 논현동 4-1 대영빌딩",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152078000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678738055,
+            "name": "써브웨이 학동역점",
+            "displayName": "써브웨이 학동역점",
+            "px": 127.0297241,
+            "py": 37.513934,
+            "type": "place",
+            "useTime": 1658152073000,
+            "lastUpdateTime": 1658152073000,
+            "creationTime": 1658152073000,
+            "order": 65535,
+            "sid": "1690183784",
+            "address": "서울특별시 강남구 논현동 58-3 삼익악기빌딩 1층 103호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152073000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678737335,
+            "name": "써브웨이 코리아",
+            "displayName": "써브웨이 코리아",
+            "px": 127.0215676,
+            "py": 37.5095859,
+            "type": "place",
+            "useTime": 1658152035000,
+            "lastUpdateTime": 1658152035000,
+            "creationTime": 1658152035000,
+            "order": 65535,
+            "sid": "13468141",
+            "address": "서울특별시 서초구 반포1동 707-11 프린스타워15층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152035000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678737014,
+            "name": "써브웨이 논현역점",
+            "displayName": "써브웨이 논현역점",
+            "px": 127.0216896,
+            "py": 37.5095845,
+            "type": "place",
+            "useTime": 1658152026000,
+            "lastUpdateTime": 1658152026000,
+            "creationTime": 1658152018000,
+            "order": 65535,
+            "sid": "36314519",
+            "address": "서울특별시 서초구 반포동 707-11 프린스빌딩",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658152026000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678736752,
+            "name": "써브웨이 신논현점",
+            "displayName": "써브웨이 신논현점",
+            "px": 127.0230917,
+            "py": 37.5065934,
+            "type": "place",
+            "useTime": 1658152006000,
+            "lastUpdateTime": 1658152006000,
+            "creationTime": 1658152006000,
+            "order": 65535,
+            "sid": "1677347249",
+            "address": "서울특별시 서초구 반포동 737-3",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658152006000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678735551,
+            "name": "써브웨이 언주역점",
+            "displayName": "써브웨이 언주역점",
+            "px": 127.0346155,
+            "py": 37.5072875,
+            "type": "place",
+            "useTime": 1658151942000,
+            "lastUpdateTime": 1658151942000,
+            "creationTime": 1658151942000,
+            "order": 65535,
+            "sid": "634111003",
+            "address": "서울특별시 강남구 역삼동 650-2",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658151942000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678735389,
+            "name": "써브웨이 테헤란로점",
+            "displayName": "써브웨이 테헤란로점",
+            "px": 127.0451784,
+            "py": 37.503053,
+            "type": "place",
+            "useTime": 1658151934000,
+            "lastUpdateTime": 1658151934000,
+            "creationTime": 1658151934000,
+            "order": 65535,
+            "sid": "1673197364",
+            "address": "서울특별시 강남구 역삼동 707-3",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658151934000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678735217,
+            "name": "써브웨이 서초법원점",
+            "displayName": "써브웨이 서초법원점",
+            "px": 127.0105743,
+            "py": 37.4933584,
+            "type": "place",
+            "useTime": 1658151925000,
+            "lastUpdateTime": 1658151925000,
+            "creationTime": 1658151925000,
+            "order": 65535,
+            "sid": "1898024874",
+            "address": "서울특별시 서초구 서초동 1717-4",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658151925000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678735138,
+            "name": "써브웨이 교대점",
+            "displayName": "써브웨이 교대점",
+            "px": 127.0167117,
+            "py": 37.4935971,
+            "type": "place",
+            "useTime": 1658151920000,
+            "lastUpdateTime": 1658151920000,
+            "creationTime": 1658151920000,
+            "order": 65535,
+            "sid": "31048150",
+            "address": "서울특별시 서초구 서초동 1670-10 문화빌딩",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658151920000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678734967,
+            "name": "써브웨이 강남역점",
+            "displayName": "써브웨이 강남역점",
+            "px": 127.0280023,
+            "py": 37.4997737,
+            "type": "place",
+            "useTime": 1658151910000,
+            "lastUpdateTime": 1658151910000,
+            "creationTime": 1658151910000,
+            "order": 65535,
+            "sid": "13149660",
+            "address": "서울특별시 강남구 역삼동 818-1",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658151910000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678734764,
+            "name": "써브웨이 강남우성점",
+            "displayName": "써브웨이 강남우성점",
+            "px": 127.031421,
+            "py": 37.4917154,
+            "type": "place",
+            "useTime": 1658151901000,
+            "lastUpdateTime": 1658151901000,
+            "creationTime": 1658151901000,
+            "order": 65535,
+            "sid": "37558849",
+            "address": "서울특별시 강남구 역삼동 837-1 1층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658151901000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678734553,
+            "name": "써브웨이 역삼점",
+            "displayName": "써브웨이 역삼점",
+            "px": 127.0355096,
+            "py": 37.5016288,
+            "type": "place",
+            "useTime": 1658151890000,
+            "lastUpdateTime": 1658151890000,
+            "creationTime": 1658151890000,
+            "order": 65535,
+            "sid": "38507982",
+            "address": "서울특별시 강남구 역삼동 642-1",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289634,
+              "creationTime": 1658151890000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678733386,
+            "name": "비오키친 논현점",
+            "displayName": "비오키친 논현점",
+            "px": 127.0272193,
+            "py": 37.5110065,
+            "type": "place",
+            "useTime": 1658151828000,
+            "lastUpdateTime": 1658151828000,
+            "creationTime": 1658151828000,
+            "order": 65535,
+            "sid": "1749690148",
+            "address": "서울특별시 강남구 논현동 148-13 103호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289548,
+              "creationTime": 1658151828000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678732988,
             "name": "고소미부엌 논현본점",
             "displayName": "고소미부엌 논현본점",
             "px": 127.0230456,
             "py": 37.5107267,
             "type": "place",
-            "useTime": 1657698682000,
-            "lastUpdateTime": 1657698682000,
-            "creationTime": 1657698682000,
+            "useTime": 1658151806000,
+            "lastUpdateTime": 1658151806000,
+            "creationTime": 1658151806000,
             "order": 65535,
             "sid": "1277536305",
             "address": "서울특별시 강남구 논현동 141-16 101호 고소미부엌",
@@ -330,25 +1864,25 @@
           },
           "folderMappings": [
             {
-              "folderId": 70078539,
-              "creationTime": 1657698682000
+              "folderId": 70289548,
+              "creationTime": 1658151806000
             }
           ]
         },
         {
           "bookmark": {
-            "bookmarkId": 673393813,
-            "name": "샐러디 서울시청점",
-            "displayName": "샐러드",
-            "px": 126.9782375,
-            "py": 37.5636921,
+            "bookmarkId": 678732723,
+            "name": "보슬보슬",
+            "displayName": "보슬보슬",
+            "px": 127.0316381,
+            "py": 37.4974657,
             "type": "place",
-            "useTime": 1657698656000,
-            "lastUpdateTime": 1657698656000,
-            "creationTime": 1657698534000,
+            "useTime": 1658151791000,
+            "lastUpdateTime": 1658151791000,
+            "creationTime": 1658151791000,
             "order": 65535,
-            "sid": "1015513331",
-            "address": "서울특별시 중구 북창동 14-5 1층",
+            "sid": "1293718759",
+            "address": "서울특별시 강남구 역삼동 824-29 1층 102호",
             "memo": null,
             "url": null,
             "folderMappings": null,
@@ -356,25 +1890,25 @@
           },
           "folderMappings": [
             {
-              "folderId": 70078524,
-              "creationTime": 1657698656000
+              "folderId": 70289548,
+              "creationTime": 1658151791000
             }
           ]
         },
         {
           "bookmark": {
-            "bookmarkId": 673395311,
-            "name": "Poke all day 포케&샐러드 잠실점",
-            "displayName": "Poke all day 포케&샐러드 잠실점",
-            "px": 127.1111142,
-            "py": 37.5091599,
+            "bookmarkId": 678732519,
+            "name": "키토분식 삼성점",
+            "displayName": "키토분식 삼성점",
+            "px": 127.0423646,
+            "py": 37.5155528,
             "type": "place",
-            "useTime": 1657698645000,
-            "lastUpdateTime": 1657698645000,
-            "creationTime": 1657698634000,
+            "useTime": 1658151780000,
+            "lastUpdateTime": 1658151780000,
+            "creationTime": 1658151780000,
             "order": 65535,
-            "sid": "1783800607",
-            "address": "서울특별시 송파구 송파동 48-19",
+            "sid": "1091314698",
+            "address": "서울특별시 강남구 삼성동 8-2 B1층 키토분식 삼성점",
             "memo": null,
             "url": null,
             "folderMappings": null,
@@ -382,8 +1916,528 @@
           },
           "folderMappings": [
             {
-              "folderId": 70078521,
-              "creationTime": 1657698634000
+              "folderId": 70289548,
+              "creationTime": 1658151780000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678732105,
+            "name": "홍낭자와 김도령",
+            "displayName": "홍낭자와 김도령",
+            "px": 127.0379902,
+            "py": 37.4980833,
+            "type": "place",
+            "useTime": 1658151761000,
+            "lastUpdateTime": 1658151761000,
+            "creationTime": 1658151761000,
+            "order": 65535,
+            "sid": "1107438794",
+            "address": "서울특별시 강남구 역삼동 738-28 1층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289548,
+              "creationTime": 1658151761000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678731475,
+            "name": "Poke all day 포케&샐러드 교대점",
+            "displayName": "Poke all day 포케&샐러드 교대점",
+            "px": 127.0150749,
+            "py": 37.4923794,
+            "type": "place",
+            "useTime": 1658151728000,
+            "lastUpdateTime": 1658151728000,
+            "creationTime": 1658151728000,
+            "order": 65535,
+            "sid": "1823607028",
+            "address": "서울특별시 서초구 서초동 1658-7",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289418,
+              "creationTime": 1658151728000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678731334,
+            "name": "Poke all day 포케&샐러드 대치점",
+            "displayName": "Poke all day 포케&샐러드 대치점",
+            "px": 127.0544537,
+            "py": 37.4978037,
+            "type": "place",
+            "useTime": 1658151721000,
+            "lastUpdateTime": 1658151721000,
+            "creationTime": 1658151721000,
+            "order": 65535,
+            "sid": "1396794476",
+            "address": "서울특별시 강남구 대치동 935-36",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289418,
+              "creationTime": 1658151721000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678731171,
+            "name": "Poke all day 포케&샐러드 신사점",
+            "displayName": "Poke all day 포케&샐러드 신사점",
+            "px": 127.0246858,
+            "py": 37.5194203,
+            "type": "place",
+            "useTime": 1658151713000,
+            "lastUpdateTime": 1658151713000,
+            "creationTime": 1658151713000,
+            "order": 65535,
+            "sid": "1009812719",
+            "address": "서울특별시 강남구 신사동 540-5",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289418,
+              "creationTime": 1658151713000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678730392,
+            "name": "알로하포케 학동점",
+            "displayName": "알로하포케 학동점",
+            "px": 127.0301207,
+            "py": 37.5147869,
+            "type": "place",
+            "useTime": 1658151671000,
+            "lastUpdateTime": 1658151671000,
+            "creationTime": 1658151671000,
+            "order": 65535,
+            "sid": "38327984",
+            "address": "서울특별시 강남구 논현동 37-18",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289418,
+              "creationTime": 1658151671000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678729508,
+            "name": "알로하포케 신논현점",
+            "displayName": "알로하포케 신논현점",
+            "px": 127.0228344,
+            "py": 37.5049423,
+            "type": "place",
+            "useTime": 1658151626000,
+            "lastUpdateTime": 1658151626000,
+            "creationTime": 1658151626000,
+            "order": 65535,
+            "sid": "90462643",
+            "address": "서울특별시 서초구 반포동 738-45 2층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289418,
+              "creationTime": 1658151626000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678729005,
+            "name": "포케웨이브",
+            "displayName": "포케웨이브",
+            "px": 127.0333013,
+            "py": 37.503719,
+            "type": "place",
+            "useTime": 1658151599000,
+            "lastUpdateTime": 1658151599000,
+            "creationTime": 1658151599000,
+            "order": 65535,
+            "sid": "1598505010",
+            "address": "서울특별시 강남구 역삼동 626-30 1층 5호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289418,
+              "creationTime": 1658151599000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678728810,
+            "name": "포케포케",
+            "displayName": "포케포케",
+            "px": 127.033353,
+            "py": 37.4987536,
+            "type": "place",
+            "useTime": 1658151588000,
+            "lastUpdateTime": 1658151588000,
+            "creationTime": 1658151588000,
+            "order": 65535,
+            "sid": "1154208189",
+            "address": "서울특별시 강남구 역삼동 735-11 110-1호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289418,
+              "creationTime": 1658151588000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678728521,
+            "name": "슬로우캘리 논현점",
+            "displayName": "슬로우캘리 논현점",
+            "px": 127.0277159,
+            "py": 37.5072257,
+            "type": "place",
+            "useTime": 1658151573000,
+            "lastUpdateTime": 1658151573000,
+            "creationTime": 1658151573000,
+            "order": 65535,
+            "sid": "1571112026",
+            "address": "서울특별시 강남구 논현동 187-3",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289418,
+              "creationTime": 1658151573000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678728417,
+            "name": "슬로우캘리 양재역점",
+            "displayName": "슬로우캘리 양재역점",
+            "px": 127.0307825,
+            "py": 37.4870008,
+            "type": "place",
+            "useTime": 1658151567000,
+            "lastUpdateTime": 1658151567000,
+            "creationTime": 1658151567000,
+            "order": 65535,
+            "sid": "1723414112",
+            "address": "서울특별시 서초구 서초동 1359-45 슬로우캘리 양재역점",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289418,
+              "creationTime": 1658151567000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678728018,
+            "name": "밸런스포케 역삼점",
+            "displayName": "밸런스포케 역삼점",
+            "px": 127.0334808,
+            "py": 37.5007025,
+            "type": "place",
+            "useTime": 1658151548000,
+            "lastUpdateTime": 1658151548000,
+            "creationTime": 1658151548000,
+            "order": 65535,
+            "sid": "1828095893",
+            "address": "서울특별시 강남구 역삼동 637-36 1층",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70289418,
+              "creationTime": 1658151548000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678727476,
+            "name": "샐러데이즈 서초구청점",
+            "displayName": "샐러데이즈 서초구청점",
+            "px": 127.0294024,
+            "py": 37.4864019,
+            "type": "place",
+            "useTime": 1658151518000,
+            "lastUpdateTime": 1658151518000,
+            "creationTime": 1658151518000,
+            "order": 65535,
+            "sid": "1933694470",
+            "address": "서울특별시 서초구 서초동 1359-35 101호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658151518000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678727376,
+            "name": "샐러데이즈 강남역점",
+            "displayName": "샐러데이즈 강남역점",
+            "px": 127.0290714,
+            "py": 37.4922357,
+            "type": "place",
+            "useTime": 1658151512000,
+            "lastUpdateTime": 1658151512000,
+            "creationTime": 1658151512000,
+            "order": 65535,
+            "sid": "1509419898",
+            "address": "서울특별시 서초구 서초동 1337-14 이츠타워 1층 102호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658151512000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678727098,
+            "name": "피그인더가든 강남점",
+            "displayName": "피그인더가든 강남점",
+            "px": 127.0298019,
+            "py": 37.4950718,
+            "type": "place",
+            "useTime": 1658151496000,
+            "lastUpdateTime": 1658151496000,
+            "creationTime": 1658151496000,
+            "order": 65535,
+            "sid": "1127093454",
+            "address": "서울특별시 강남구 역삼동 826-14",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658151496000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678718655,
+            "name": "샐러드로우 앤 트라타 대치점",
+            "displayName": "샐러드로우 앤 트라타 대치점",
+            "px": 127.0532661,
+            "py": 37.5001021,
+            "type": "place",
+            "useTime": 1658151038000,
+            "lastUpdateTime": 1658151038000,
+            "creationTime": 1658151038000,
+            "order": 65535,
+            "sid": "1626426395",
+            "address": "서울특별시 강남구 대치동 919-7 지상1층 101호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658151038000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678718568,
+            "name": "샐러드로우 앤 트라타 역삼점",
+            "displayName": "샐러드로우 앤 트라타 역삼점",
+            "px": 127.0335818,
+            "py": 37.5019689,
+            "type": "place",
+            "useTime": 1658151033000,
+            "lastUpdateTime": 1658151033000,
+            "creationTime": 1658151033000,
+            "order": 65535,
+            "sid": "1622539527",
+            "address": "서울특별시 강남구 역삼동 638-17",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658151033000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678718197,
+            "name": "마치래빗 샐러드 강남역점",
+            "displayName": "마치래빗 샐러드 강남역점",
+            "px": 127.0304041,
+            "py": 37.4955423,
+            "type": "place",
+            "useTime": 1658151013000,
+            "lastUpdateTime": 1658151013000,
+            "creationTime": 1658151013000,
+            "order": 65535,
+            "sid": "1593332476",
+            "address": "서울특별시 강남구 역삼동 826-37 쌍용플래티넘밸류 B1-139호",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658151013000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678717925,
+            "name": "뱃살도둑 역삼점",
+            "displayName": "뱃살도둑 역삼점",
+            "px": 127.0325361,
+            "py": 37.4977838,
+            "type": "place",
+            "useTime": 1658150997000,
+            "lastUpdateTime": 1658150997000,
+            "creationTime": 1658150997000,
+            "order": 65535,
+            "sid": "1449776167",
+            "address": "서울특별시 강남구 역삼동 823-16",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658150997000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678717392,
+            "name": "샐러디 역삼점",
+            "displayName": "샐러디 역삼점",
+            "px": 127.0350744,
+            "py": 37.4989769,
+            "type": "place",
+            "useTime": 1658150966000,
+            "lastUpdateTime": 1658150966000,
+            "creationTime": 1658150966000,
+            "order": 65535,
+            "sid": "36690549",
+            "address": "서울특별시 강남구 역삼동 736-31 1층 샐러디 역삼점",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658150966000
+            }
+          ]
+        },
+        {
+          "bookmark": {
+            "bookmarkId": 678717214,
+            "name": "샐러디 강남역점",
+            "displayName": "샐러디 강남역점",
+            "px": 127.0302666,
+            "py": 37.4970696,
+            "type": "place",
+            "useTime": 1658150957000,
+            "lastUpdateTime": 1658150957000,
+            "creationTime": 1658150957000,
+            "order": 65535,
+            "sid": "38482394",
+            "address": "서울특별시 강남구 역삼동 824-11",
+            "memo": null,
+            "url": null,
+            "folderMappings": null,
+            "isIndoor": false
+          },
+          "folderMappings": [
+            {
+              "folderId": 70288954,
+              "creationTime": 1658150957000
             }
           ]
         }
